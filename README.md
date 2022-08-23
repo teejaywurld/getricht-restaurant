@@ -8,7 +8,7 @@
 
 
 
-INTRODUCTION
+# INTRODUCTION
 
 This is a Frontend Code Repository for a random landing page of a Restaurant UI/UX Design (link: https://www.figma.com/file/yvClSI9AZBRX8UaaGEByF3/Modern-UI%2FUX%3A-Gericht?node-id=0%3A1) i found online that i decided to try my hands on so i could improve and as well deepen my understanding of React.
 
