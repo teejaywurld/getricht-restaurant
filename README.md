@@ -24,4 +24,4 @@ And at the end you'll learn how to deploy your websites to extremely fast server
 
 Having undertaken this project as first, i am certainly going to try my hands on others and as many as i will find.
 
-The final project can be viewed online here:- https://getrichtrestaurant.herokuapp.com/
+The final project can be viewed online here:- https://getricht-restaurant.netlify.app/
